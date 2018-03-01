@@ -12,6 +12,7 @@ class Function
         public string Name;
         public string Sex;
     }
+
     public static void QueueTest()
     {
         Console.WriteLine();
@@ -30,6 +31,7 @@ class Function
             Console.WriteLine(queue1.Dequeue() + "，第" + n++ + "個被Dequeue出來");
         } // end while
     } // end QueueTest
+
     public static void StackTest()
     {
         Console.WriteLine();
@@ -83,7 +85,8 @@ class Function
                 Console.WriteLine("dictionary 中 key " + ToFind + " 不存在 " );
             } // end if             
         } // end FindInDictionary
-    }
+    } // end Dictionary
+
     public static class HashTable
     {
         public static void HashTable1()
@@ -129,6 +132,23 @@ class Function
             } // end if
         } // end FindInHashTable
     } // end HashTable
+
+    public static void ArrayList()
+    {
+        Console.WriteLine();
+        Console.WriteLine("ArrayList");
+
+        ArrayList arrList = new ArrayList();
+
+        arrList.Add(1);
+        arrList.Add("abc");
+        arrList.Add(new Employee() { Name = "Oli", Sex = "F" });
+
+        foreach (object arrListItem in arrList)
+        {
+            Console.WriteLine(arrListItem.ToString());
+        }
+    }
    
 }
 

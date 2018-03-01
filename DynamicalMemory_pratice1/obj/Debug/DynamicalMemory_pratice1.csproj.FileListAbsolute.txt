@@ -4,3 +4,10 @@ c:\users\kathy\documents\visual studio 2015\Projects\DynamicalMemory_pratice1\Dy
 c:\users\kathy\documents\visual studio 2015\Projects\DynamicalMemory_pratice1\DynamicalMemory_pratice1\bin\Debug\DynamicalMemory_pratice1.pdb
 c:\users\kathy\documents\visual studio 2015\Projects\DynamicalMemory_pratice1\DynamicalMemory_pratice1\obj\Debug\DynamicalMemory_pratice1.exe
 c:\users\kathy\documents\visual studio 2015\Projects\DynamicalMemory_pratice1\DynamicalMemory_pratice1\obj\Debug\DynamicalMemory_pratice1.pdb
+C:\Users\李嘉慈\source\repos\DynamicalMemory_pratice\DynamicalMemory_pratice1\bin\Debug\DynamicalMemory_pratice1.exe.config
+C:\Users\李嘉慈\source\repos\DynamicalMemory_pratice\DynamicalMemory_pratice1\bin\Debug\DynamicalMemory_pratice1.exe
+C:\Users\李嘉慈\source\repos\DynamicalMemory_pratice\DynamicalMemory_pratice1\bin\Debug\DynamicalMemory_pratice1.pdb
+C:\Users\李嘉慈\source\repos\DynamicalMemory_pratice\DynamicalMemory_pratice1\obj\Debug\DynamicalMemory_pratice1.csprojResolveAssemblyReference.cache
+C:\Users\李嘉慈\source\repos\DynamicalMemory_pratice\DynamicalMemory_pratice1\obj\Debug\DynamicalMemory_pratice1.csproj.CoreCompileInputs.cache
+C:\Users\李嘉慈\source\repos\DynamicalMemory_pratice\DynamicalMemory_pratice1\obj\Debug\DynamicalMemory_pratice1.exe
+C:\Users\李嘉慈\source\repos\DynamicalMemory_pratice\DynamicalMemory_pratice1\obj\Debug\DynamicalMemory_pratice1.pdb

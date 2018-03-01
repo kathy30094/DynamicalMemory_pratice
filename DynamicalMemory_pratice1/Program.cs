@@ -20,6 +20,7 @@ namespace DynamicalMemory_pratice1
 
             Function.HashTable.HashTable1();
 
+            Function.ArrayList();
 
             Console.ReadLine();
         }
